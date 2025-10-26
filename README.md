@@ -18,7 +18,7 @@ A data analytics project examining 10,000+ Meta advertising transactions to iden
 - ### Interpretation:
   Correlated market concentration metrics with performance outcomes to uncover trends in competitive behavior and market sustainability.
 
-  ### SQL Snippet: Market Concentration Computation
+### SQL Snippet: Market Concentration Computation
 To evaluate advertiser dominance, the Ad Saturation Index computes each advertiser's share of total ad volume and spend. The query safely casts data and aggregates proportional representation to identify overexposed players in the Meta Ads market
 
 ```sql
