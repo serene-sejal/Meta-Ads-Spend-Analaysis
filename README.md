@@ -41,6 +41,7 @@ order by ad_saturation_pct desc
 limit 15;
 ```
 
+
 The following SQL snippet highlights the data modelling logic used to compute market concentration through the Herfindahl–Hirschman Index (HHI), a key measure of competitiveness in advertising markets.
 
 <img width="854" height="430" alt="Screenshot 2025-10-25 at 8 43 42 PM" src="https://github.com/user-attachments/assets/3f5bd393-100c-4f9f-b341-08d4ddc7e138" />
